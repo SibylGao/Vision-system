@@ -1,0 +1,8 @@
+/home/sibylgao/CLionProjects/SVM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sibylgao/CLionProjects/SVM/cmake-build-debug/CMakeFiles/SVM.dir
+/home/sibylgao/CLionProjects/SVM/cmake-build-debug/CMakeFiles/train_data.dir
+/home/sibylgao/CLionProjects/SVM/cmake-build-debug/CMakeFiles/test_SVM.dir
+/home/sibylgao/CLionProjects/SVM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sibylgao/CLionProjects/SVM/cmake-build-debug/src_svm/CMakeFiles/edit_cache.dir
+/home/sibylgao/CLionProjects/SVM/cmake-build-debug/src_svm/CMakeFiles/rebuild_cache.dir
+/home/sibylgao/CLionProjects/SVM/cmake-build-debug/src_svm/CMakeFiles/src_svm.dir

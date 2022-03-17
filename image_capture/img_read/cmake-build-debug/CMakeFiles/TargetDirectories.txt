@@ -1,0 +1,3 @@
+/home/sibylgao/CLionProjects/img_read/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sibylgao/CLionProjects/img_read/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sibylgao/CLionProjects/img_read/cmake-build-debug/CMakeFiles/img_read.dir

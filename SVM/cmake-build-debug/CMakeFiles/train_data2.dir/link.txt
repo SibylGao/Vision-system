@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/train_data2.dir/train_data/generate_txt.cpp.o  -o train_data2  -L/usr/local/lib  -L/home/sibylgao/opencv-3.3.0/build  -L/home/sibylgao/opencv-3.3.0/build/lib  -L/home/sibylgao/opencv-3.3.0/include  -L/home/sibylgao/opencv-3.3.0/include/opencv  -L/home/sibylgao/opencv-3.3.0/include/opencv2 

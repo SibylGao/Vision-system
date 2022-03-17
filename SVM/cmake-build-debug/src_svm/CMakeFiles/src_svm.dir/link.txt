@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libsrc_svm.a  CMakeFiles/src_svm.dir/svm.cpp.o CMakeFiles/src_svm.dir/svm-predict.c.o CMakeFiles/src_svm.dir/svm-scale.c.o CMakeFiles/src_svm.dir/svm-train.c.o
+/usr/bin/ranlib ../../lib/libsrc_svm.a
